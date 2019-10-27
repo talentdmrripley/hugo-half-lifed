@@ -1,5 +1,5 @@
 ---
-title: Bullet Journals
+title: 'Bullet Journaling: 7 Takeaways'
 date: 2019-10-27T04:55:00.671Z
 description: Have you heard of Bullet Journals?
 image: /img/r_carroll_bujo_book.jpg
