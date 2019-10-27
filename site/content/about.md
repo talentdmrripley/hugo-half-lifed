@@ -1,8 +1,6 @@
 ---
 title: About
 date: 2019-10-26
-menu: main
-weight: 50
 type: page
 ---
 
