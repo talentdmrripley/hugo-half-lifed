@@ -1,7 +1,7 @@
 ---
-title: 'Bullet Journaling: 7 Takeaways'
+title: "Bullet Journaling: 7 Takeaways"
 date: 2019-10-27T04:55:00.671Z
-description: Have you heard of Bullet Journaling? It's my favorite "hack" of 2019
+description: "Have you heard of Bullet Journaling? It's my favorite hack of 2019"
 image: /img/r_carroll_bujo_book.jpg
 categories: hacks, bullet journal, lists
 tags: Ryder Carroll, The Bullet Journal Method, 7 takeaways, #bujo
