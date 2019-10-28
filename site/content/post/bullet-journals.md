@@ -10,7 +10,9 @@ Back in January, I downloaded Ryder Carroll's [The Bullet Journal Method](https:
 
 > For years Ryder Carroll tried countless organizing systems, online and off, but none of them fit the way his mind worked. Out of sheer necessity, he developed a method called the Bullet Journal that helped him become consistently focused and effective.
 
-I decided to give Bullet Journaling a try. And while the book is straightforward with a great framework for getting started, you have to find your own way with it. But ... where to start?
+I decided to give Bullet Journaling a try. And while the book is straightforward with a great framework for getting started, you have to find your own way with it. 
+
+#### Where to start?
 
 The #BuJo hashtag is ripe with inspiration, ideas, hacks, colorful layouts, and "trackers" for organizing your life and logging particulars of note. Thousands of people share their layouts, make videos, and more. Check out the results in this [#BuJo Instagram search](https://www.instagram.com/explore/tags/bujo/) with 3,553,046 posts. There's quite a lot of cool things happening in the Bullet Journal universe.
 
