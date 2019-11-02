@@ -1,7 +1,8 @@
 <head>
 
+  {{ template "_internal/google_analytics.html" . }}
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
-
+  
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
@@ -29,7 +30,6 @@
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="{{ .Params.image }}">
 	
-	{{ template "_internal/google_analytics.html" . }}
 	{{ template "_internal/twitter_cards.html" . }}
 
   {{ if .IsHome }}
