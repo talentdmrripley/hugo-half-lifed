@@ -4,6 +4,7 @@ languageLang = "en"
 title = "talentdmrripley.com"
 disqusShortname = "talentdmrr"
 googleAnalytics = "UA-151349905-1"
+enableRobotsTXT = "true"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
