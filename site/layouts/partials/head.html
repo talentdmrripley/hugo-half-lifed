@@ -1,7 +1,7 @@
 <head>
 
   {{ template "_internal/google_analytics.html" . }}
-  <title>Home | {{ $.Site.Title }}</title>
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
   
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
@@ -27,7 +27,7 @@
 	<!-- Open Graph -->
 	<meta property="og:type" content="blog post">
 	<meta property="og:title" content="{{ .Title }} | talentdmrripley.com">
-	<meta property="og:url" content="https://talentdmrripley.com/">
+	<meta property="og:url" content="talentdmrripley.com/">
 	<meta property="og:image" content="{{ .Params.image }}">
 	
 	{{ template "_internal/twitter_cards.html" . }}
