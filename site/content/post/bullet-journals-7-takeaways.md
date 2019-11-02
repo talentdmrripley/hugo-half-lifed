@@ -6,9 +6,9 @@ image: /img/r_carroll_bujo_book.jpg
 categories: hacks, bullet journal, lists
 tags: Ryder Carroll, The Bullet Journal Method, 7 takeaways, #bujo
 ---
-Back in January, I downloaded Ryder Carroll's [The Bullet Journal Method](https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/ref=asc_df_0525533338/?tag=hyprod-20&linkCode=df0&hvadid=312104274912&hvpos=1o1&hvnetw=g&hvrand=4302620717105397799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033767&hvtargid=aud-798931705416:pla-524552078099&psc=1). 
+Back in January, I downloaded Ryder Carroll's book, [The Bullet Journal Method](https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/ref=asc_df_0525533338/?tag=hyprod-20&linkCode=df0&hvadid=312104274912&hvpos=1o1&hvnetw=g&hvrand=4302620717105397799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033767&hvtargid=aud-798931705416:pla-524552078099&psc=1). 
 
-> For years Ryder Carroll tried countless organizing systems, online and off, but none of them fit the way his mind worked. Out of sheer necessity, he developed a method called the Bullet Journal that helped him become consistently focused and effective.
+> For years, Ryder Carroll tried countless organizing systems, online and off, but none of them fit the way his mind worked. Out of sheer necessity, he developed a method called the Bullet Journal that helped him become consistently focused and effective.
 
 I decided to give Bullet Journaling a try. And while the book is straightforward with a great framework for getting started, you have to find your own way with it. 
 
