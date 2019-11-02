@@ -1,7 +1,7 @@
 <head>
 
   {{ template "_internal/google_analytics.html" . }}
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+  <title>Home | {{ $.Site.Title }}</title>
   
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
