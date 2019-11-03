@@ -26,7 +26,7 @@ You might need a nudge here and there, and people come up with 1000s of useful l
 3. Writing things down—There's permanency in the act of writing something down. Disconnecting from the digital world might sound old-fashioned but it's refreshing in a surprising way. I encourage everyone to try it.
 4. Perspective shift–Instead of moving through life at break-neck speed, Bullet Journaling turns you into an observer of your life and all the things you care about.
 5. Embrace your individuality—It's your Bullet Journal; you might be surprised what you learn about yourself and your particular style.
-6. No pressure—don't beat yourself up if you miss a week. If you started with the basics and got some momentum, it shouldn't be long until you're on tops of things again.
+6. No pressure—don't beat yourself up if you miss a week. If you started with the basics and got some momentum, it shouldn't be long until you're on top of things again.
 7. Journaling—Since it's in the name and all, journaling your life is easy and organized throughout the year. How was that trip? How's work going? What's going on at home?
 
 As for the actual journal, I'm a fan of the [Leuchtturm 1917 Medium A5 Dotted Hardcover Notebook](https://www.amazon.com/Leuchtturm1917-Medium-Dotted-Hardcover-Notebook/dp/B002TSIMW4/ref=sxbs_sxwds-stvp?crid=2WMQHL5J2JD97&keywords=leuchtturm1917+journal&pd_rd_i=B002TSIMW4&pd_rd_r=d055a767-f86e-415f-b439-6301459bacba&pd_rd_w=Y3BdC&pd_rd_wg=NLJHE&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=EQF938S70W46DRV9D2H7&qid=1572159392&s=books&sprefix=leuchtt%2Cstripbooks%2C212). The dotted grid makes layouts easy and efficient. That said, there are countless notebook options out there, folks. Go with what works for you.
