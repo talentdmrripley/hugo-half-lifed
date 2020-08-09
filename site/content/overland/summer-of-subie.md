@@ -27,7 +27,7 @@ _On my list_:
 * Old cemeteries
 * Ghost towns
 * Grain silos
-* Old buidlings
+* Old buildings
 * abandoned service stations
 * hidden trout streams
 * broken barns
