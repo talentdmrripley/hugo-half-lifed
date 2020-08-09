@@ -22,12 +22,13 @@ Some of my favorite stops are below:
 {{< instagram CDeqyd8piO7 >}}
 {{< instagram CDSnlHzp606 >}}
 
-On my list:
-- old cemetaries
-- ghost towns
-- grain cilos
-- old buidlings
-- abandoned service stations
-- hidden trout streams
-- broken barns
-- neglected objects
+_On my list_:
+
+* Old cemeteries
+* Ghost towns
+* Grain silos
+* Old buidlings
+* abandoned service stations
+* hidden trout streams
+* broken barns
+* neglected objects
