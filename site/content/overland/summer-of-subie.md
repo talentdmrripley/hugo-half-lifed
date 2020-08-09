@@ -10,7 +10,7 @@ We usually do a major trip in the summer. Cruise, Europe, Hawaii. Something. Not
 
 Enter the Crosstrek, and what great timing.
 
-We've done more local vacationing than ever. Two camping trips, multiple day trips, drive arounds, gravel road galivanting, dirt road driving, farm field fairing, log road lapping, creek road caravaning. It's all incredible!
+We've done more local vacationing than ever. Two camping trips, multiple day trips, drive arounds, gravel road galivants, dirt road drives, farm field forrays, log road laps, creek road caravans. It's all incredible!
 
 Our Subaru might just be a car, but it's more than that: it's our COVID-19 coping mechanism. It's our open invitation to stop, breathe, and rediscover more of the ongoing intrigue around us.
 
@@ -21,3 +21,13 @@ Some of my favorite stops are below:
 {{< instagram CDEm0NjJaJC >}}
 {{< instagram CDeqyd8piO7 >}}
 {{< instagram CDSnlHzp606 >}}
+
+On my list:
+- old cemetaries
+- ghost towns
+- grain cilos
+- old buidlings
+- abandoned service stations
+- hidden trout streams
+- broken barns
+- neglected objects
