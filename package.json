@@ -44,22 +44,15 @@
     "html-webpack-plugin": "^3.2.0",
     "hugo-bin": "^0.46.0",
     "imports-loader": "^0.8.0",
-<<<<<<< HEAD
     "mini-css-extract-plugin": "^0.8.0",
     "netlify-cms-app": "^2.14.14",
     "node-sass": "^4.14.1",
-=======
-    "mini-css-extract-plugin": "^0.8.2",
-    "netlify-cms-app": "^2.14.6",
-    "node-sass": "^4.13.1",
->>>>>>> 77339ce4e9111c03434dacb10dcf87e8d359c104
     "npm-run-all": "^4.1.5",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "plugin-error": "^1.0.1",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.3.0",
-<<<<<<< HEAD
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "rimraf": "^3.0.0",
@@ -75,22 +68,5 @@
   },
   "dependencies": {
     "twilio": "^3.55.1"
-=======
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
-    "rimraf": "^3.0.2",
-    "sass-loader": "^8.0.2",
-    "style-loader": "^1.3.0",
-    "terser-webpack-plugin": "^2.3.8",
-    "to-string-loader": "^1.1.6",
-    "url-loader": "^2.3.0",
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0",
-    "webpack-merge": "^4.1.4"
-  },
-  "dependencies": {
-    "twilio": "^3.54.0"
->>>>>>> 77339ce4e9111c03434dacb10dcf87e8d359c104
   }
 }
