@@ -4,7 +4,7 @@
   "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "repository": "netlify/victor-hugo",
   "main": "index.js",
-    "scripts": {
+  "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
     "start:hugo": "hugo -d ../dist -s site -vw",
@@ -28,7 +28,7 @@
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-react": "^7.12.10",
     "@babel/register": "^7.12.10",
-    "assets-webpack-plugin": "^3.9.12",
+    "assets-webpack-plugin": "^7.0.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.2",
     "clean-webpack-plugin": "^3.0.0",
