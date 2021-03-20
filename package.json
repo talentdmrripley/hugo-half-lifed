@@ -1,6 +1,6 @@
 {
   "name": "victor-hugo",
-  "version": "1.0.0",
+  "version": "0.80.0",
   "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "repository": "netlify/victor-hugo",
   "main": "index.js",
@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "chokidar": "^3.5.1",
-    "codemirror": "^5.59.4",
+    "codemirror": "^5.60.0",
     "netlify-cms": "^2.10.100",
     "netlify-cms-lib-widgets": "^1.6.1",
     "redux": "^4.0.5",
